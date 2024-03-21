@@ -1,5 +1,6 @@
 name: melos_workspace
 
+# dart run melos bs
 packages:
   # - "*"
   - packages/*
